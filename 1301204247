@@ -11,7 +11,7 @@ print ()
 sisi = int (input ("Masukkan sisi: "))
 luas persegi = sisi * sisi
 print ("Luas persegi adalah : ", luas_persegi)
- print ()
+print ()
 
 # Rumus Luas Persegi Panjang (Muhammad Farisal Imtiyaz - 1301204247)
 
@@ -19,7 +19,7 @@ panjang = int (input ("Masukkan Panjang: "))
 lebar = int (input ("Masukkan lebar: "))
 luas_persegi_panjang = panjang * lebar
 print ("Luas persegi panjang adalah : ", luas _persegi _panjang)
- print ()
+print ()
 
 # Rumus Luas Layang-layang (Muhammad Farisal Imtiyaz - 1301204247)
 
