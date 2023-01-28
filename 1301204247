@@ -1,0 +1,29 @@
+# Rumus Luas Lingkaran (Muhammad Farisal Imtiyaz - 1301204247)
+
+phi = 3.14
+r = float (input ("Masukkan jari-jari lingkaran: "))
+luas lingkaran = phi * r * r
+print ("Luas lingkaran adalah : ", luas_lingkaran) 
+print ()
+
+# Rumus Luas Persegi (Muhammad Farisal Imtiyaz - 1301204247)
+
+sisi = int (input ("Masukkan sisi: "))
+luas persegi = sisi * sisi
+print ("Luas persegi adalah : ", luas_persegi)
+ print ()
+
+# Rumus Luas Persegi Panjang (Muhammad Farisal Imtiyaz - 1301204247)
+
+panjang = int (input ("Masukkan Panjang: "))
+lebar = int (input ("Masukkan lebar: "))
+luas_persegi_panjang = panjang * lebar
+print ("Luas persegi panjang adalah : ", luas _persegi _panjang)
+ print ()
+
+# Rumus Luas Layang-layang (Muhammad Farisal Imtiyaz - 1301204247)
+
+d1 = int (input ("Masukkan diagonal 1: "))
+d2 = int (input ("Masukkan diagonal 2: "))
+luas layang = (di * d2) / 2
+print ("Luas layang-layang adalah : ", luas layang)
